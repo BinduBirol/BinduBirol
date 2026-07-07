@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Birol 👋
 
-<!--
-**BinduBirol/BinduBirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer specializing in Java, Spring Boot, and scalable APIs.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- REST API
+- Microservices
+- PostgreSQL
+- Docker
+- React
+
+## 🔨 Projects
+
+### TM Auth Service
+JWT-based authentication microservice using:
+- Spring Boot 3
+- Java 17
+- PostgreSQL
+- Redis
+- OAuth2
+
+### BIIS
+Enterprise information system serving thousands of users.
+
+## 📫 Connect
+
+- LinkedIn: [your-link](https://www.linkedin.com/in/bindubirol)
