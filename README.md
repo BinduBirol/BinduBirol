@@ -14,5 +14,5 @@ React • TypeScript • Docker • Git
 
 ## Connect
 
-LinkedIn: [your-link](https://www.linkedin.com/in/bindubirol/)  
+LinkedIn: [Birol Karmaker](https://www.linkedin.com/in/bindubirol/)  
 Email: birolkarmaker@gmail.com
